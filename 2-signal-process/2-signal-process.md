@@ -151,24 +151,3 @@ bpsk_n_f = wdenoise(bpsk_n,9 ,'NoiseEstimate','LevelInDependent');
 [Matlab - 数字滤波器设计实践](https://ww2.mathworks.cn/help/signal/ug/practical-introduction-to-digital-filter-design.html)
 
 [Matlab - Wavelet Denoising](https://ww2.mathworks.cn/help/dsp/ug/wavelet-denoising.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
